@@ -1,0 +1,1 @@
+/Users/jean-deniscaron/Documents/Logseq/Documents/pages/Ten principles for good design.md
