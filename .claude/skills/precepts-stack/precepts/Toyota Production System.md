@@ -1,1 +1,34 @@
-/Users/jean-deniscaron/Documents/Logseq/Documents/pages/Toyota Production System.md
+- [[source]] https://en.wikipedia.org/wiki/Toyota_Production_System
+- Principles
+	- Continuous improvement
+		- We form a long-term vision, meeting challenges with courage and creativity to realize our dreams.
+		- We improve our business operations continuously, always driving for innovation and evolution.
+		- Go to the source to find the facts to make correct decisions.
+	- Respect for people
+	  id:: 69e0bcb0-7850-4885-ba33-ac31395a434c
+		- Respect
+			- We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust.
+		- Teamwork
+			- We stimulate personal and professional growth, share the opportunities of development and maximize individual and team performance.
+		- Just-in-Time (JIT)
+			- Produce what is needed, when it’s needed.
+		- Jidoka (Automation with a human touch)
+			- Stop production when problems occur.
+	- The right process will produce the right results
+		- 1. Create continuous process flow to bring problems to the surface.
+		- 2. Use the "pull" system to avoid overproduction.
+		- id:: 69e0bc13-7d7a-40e4-85fe-f8194b61242d
+		  3. Level out the workload (heijunka). (Work like the tortoise, not the hare.)
+		- 4. Build a culture of stopping to fix problems, to get quality right from the start. (Jidoka)
+		- 5. Standardized tasks are the foundation for continuous improvement and employee empowerment.
+		- 6. Use visual control so no problems are hidden.
+		- id:: 69e0bc2c-8275-450a-a5e2-419b69a7ad69
+		  7. Use only reliable, thoroughly tested technology that serves your people and processes.
+	- Add value to the organization by developing your people and partners
+		- Grow leaders who thoroughly understand the work, live the philosophy, and teach it to others.
+		- Develop exceptional people and teams who follow your company's philosophy.
+		- Respect your extended network of partners and suppliers by challenging them and helping them improve.
+	- Continuously solving root problems drives organizational learning
+		- Go and see for yourself to thoroughly understand the situation.
+		- Make decisions slowly by consensus, thoroughly considering all options; implement decisions rapidly;
+		- Become a learning organization through relentless reflection and continuous improvement and never stop.

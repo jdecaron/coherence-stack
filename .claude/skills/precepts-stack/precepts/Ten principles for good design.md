@@ -1,1 +1,27 @@
-/Users/jean-deniscaron/Documents/Logseq/Documents/pages/Ten principles for good design.md
+- [[source]] https://www.vitsoe.com/about/good-design
+- [[by]] [[Dieter Rams]]
+- English
+	- Good design is innovative
+	- Good design makes a product useful
+	- Good design is aesthetic
+	- Good design makes a product understandable
+	- Good design is unobtrusive
+	- Good design is honest
+	- Good design is long-lasting
+	- Good design is thorough down to the last detail
+	- Good design is environmentally-friendly
+	- Good design is as little design as possible
+	  id:: 69e8e4b6-c1dd-4225-9865-2b43c9e9c2c3
+- Français
+	- Un ...
+		- ... bon design est innovant
+		- ... bon design rend les produits utiles
+		- ... bon design est esthétique
+		- ... bon design rend un produit compréhensible
+		- ... bon design est non encombrant
+		- ... bon design est honnête
+		- ... bon design est durable
+		- ... bon design est approfondi jusqu'au dernier détail
+		- ... bon design considère l'environnement
+		- ... bon design est le moins possible de design
+- These principles can be shared accurately and fairly under the [Creative Commons CC-BY-NC-ND 4.0 licence](http://creativecommons.org/licenses/by-nc-nd/4.0/).

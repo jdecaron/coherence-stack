@@ -1,1 +1,3 @@
-/Users/jean-deniscaron/Documents/Logseq/Documents/pages/nature-humans-tech coherence stack.md
+- [[Nature]]
+- Humans
+- [[tech]]

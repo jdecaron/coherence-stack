@@ -1,1 +1,23 @@
-/Users/jean-deniscaron/Documents/Logseq/Documents/pages/Ten precepts (Taoism).md
+- [[source]] https://en.wikipedia.org/wiki/Ten_precepts_(Taoism)
+- English
+	- 1. Do not kill but always be mindful of the host of living beings.
+	- 2. Do not be lascivious or think depraved thoughts.
+	- 3. Do not steal or receive unrighteous wealth.
+	- 4. Do not cheat or misrepresent good and evil.
+	- 5. Do not get intoxicated but always think of pure conduct.
+	- 6. I will maintain harmony with my ancestors and family and never disregard my kin.
+	- 7. When I see someone do a good deed, I will support him with joy and delight.
+	- 8. When I see someone unfortunate, I will support him with dignity to recover good fortune.
+	- 9. When someone comes to do me harm, I will not harbor thoughts of revenge.
+	- 10. As long as all beings have not attained the Dao, I will not expect to do so myself.
+- Français
+	- 1. Ne tue pas, sois toujours respectueux des êtres vivants.
+	- 2. Ne sois pas sexuellement offensif, n'entretiens pas de pensées dépravées.
+	- 3. Ne vole pas, n'accumule pas de richesse excessive.
+	- 4. Ne triche pas, ne déçois pas le bien et le mal.
+	- 5. Ne sois pas intoxiqué, pense de façon pure.
+	- 6. Toujours être en harmonie avec mes ancêtres et ma famille, et ne jamais mépriser mes parents.
+	- 7. Quand j'observe une personne faire un acte bon, je vais la soutenir avec joie et appréciation.
+	- 8. Quand j'observe quelqu'un d'infortuné, je vais le soutenir avec dignité pour le ramener vers sa bonne fortune.
+	- 9. Quand quelqu'un vient me faire du mal, je ne vais pas ruminer des pensées de revanche.
+	- 10. Tant que tous les êtres n'auront pas atteint le Dao, ne pas espérer l'atteindre seul.
