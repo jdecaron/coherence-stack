@@ -59,3 +59,13 @@ If two tail files conflict on a point, the skill surfaces the tension rather tha
 ## If a wikilink points to a missing file
 
 The skill will flag it rather than silently skip. Either create the file or remove the link.
+
+## Syncing from Logseq
+
+If your precepts live in Logseq, run:
+
+```bash
+./sync-precepts.sh
+```
+
+This copies `coherence stack.md` and all files it references from `~/Documents/Logseq/Documents/pages/` into the precepts directory. Edit `SRC` in the script if your Logseq pages live elsewhere.
