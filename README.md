@@ -69,3 +69,11 @@ If your notes live in Logseq, run:
 ```
 
 This copies `coherence stack.md` and all files it references from `~/Documents/Logseq/Documents/pages/` into the notes directory. Edit `SRC` in the script if your Logseq pages live elsewhere.
+
+## Creating a zip for Claude Desktop
+
+```bash
+cd .claude/skills/coherence-stack && zip -r ../../../coherence-stack.zip . && cd ../../..
+```
+
+Creates `coherence-stack.zip` in the project root, ready to upload.
