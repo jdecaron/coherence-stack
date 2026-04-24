@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SRC="$HOME/Documents/Logseq/Documents/pages"
-DEST="$HOME/dev/coherence-stack/.claude/skills/precepts-stack/precepts"
+DEST="$HOME/dev/coherence-stack/.claude/skills/coherence-stack/notes"
 
 # Copy the index first
 cp "$SRC/coherence stack.md" "$DEST/"
